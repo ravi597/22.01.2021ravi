@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>KARTHIKEYA COMMUNICATIONS</h1>
+<h1>NEHA COMMUNICATIONS</h1>
 <p>Suvarnapuram Village, Mudigonda Mandal, Khammam District.</p>
 
 </body>
